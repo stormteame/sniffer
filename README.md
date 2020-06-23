@@ -4,6 +4,7 @@ network sniffer
 لا تنسي لا تستخدم علمك لاذية غيرك 
 وانا بري من الاستخدام السي لهذة الاداه
 #
+### whatsapp: +201553493284
 ## المتطلبات
 #
 Do not forget
@@ -12,6 +13,10 @@ Do not forget
 Do not forget
 ` pip install collections` .
 #
+#
+Do not forget
+` WinPcap` .
+
 
 #
 My Facebook Profile:[Fcebook.com](https://www.facebook.com/profile.php?id=100050215254013)
