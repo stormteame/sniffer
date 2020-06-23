@@ -5,12 +5,15 @@ network sniffer
 وانا بري من الاستخدام السي لهذة الاداه
 #
 ### whatsapp: +201553493284
-## المتطلبات
+## لقطة شاشة
+
 #
                            sniffer-X
 
 ![Image of Yaktocat](https://github.com/stormteame/sniffer/blob/master/snif.PNG?raw=true)
 #
+## المتطلبات
+
 Do not forget
 ` pip install scapy`.
 #
