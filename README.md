@@ -1,6 +1,6 @@
 # sniffer
 network sniffer
 
-## pip install scapy
+ pip install scapy
 
-## pip install collections
+pip install collections
