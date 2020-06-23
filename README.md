@@ -6,7 +6,6 @@ network sniffer
 #
 ## المتطلبات
 #
-pip install collections
 Do not forget
 ` pip install scapy`.
 #
