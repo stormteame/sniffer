@@ -7,9 +7,7 @@ network sniffer
 ### whatsapp: +201553493284
 ## لقطة شاشة
 
-#
-                           sniffer-X
-
+   #                        sniffer-X
 ![Image of Yaktocat](https://github.com/stormteame/sniffer/blob/master/snif.PNG?raw=true)
 #
 ## المتطلبات
@@ -20,10 +18,7 @@ Do not forget
 Do not forget
 ` pip install collections` .
 #
-#
 Do not forget
 ` WinPcap` .
-
-
 #
 My Facebook Profile:[Fcebook.com](https://www.facebook.com/profile.php?id=100050215254013)
